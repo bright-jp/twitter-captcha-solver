@@ -1,6 +1,6 @@
 # Twitter CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/twitter)
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/twitter)
 
 Bright Dataの高度なCAPTCHA解決テクノロジーで、TwitterのCAPTCHAを手間なく回避できます。機械学習アルゴリズム、[自動IPローテーション](https://brightdata.jp/solutions/rotating-proxies)、堅牢なプロキシインフラを活用し、ターゲットサイトへのシームレスで安定したアクセスを確保します。  
 
@@ -129,7 +129,7 @@ Bright DataのCAPTCHA Solverは、以下を含む幅広いCAPTCHAタイプに対
 
 ## Advanced Customization  
 
-[Bright DataのCAPTCHA Solver](https://github.com/luminati-io/Captcha-solver)では、特定のシナリオに対して解決ロジックを微調整するための高度なカスタマイズが可能です。
+[Bright DataのCAPTCHA Solver](https://github.com/bright-jp/Captcha-solver)では、特定のシナリオに対して解決ロジックを微調整するための高度なカスタマイズが可能です。
 
 ## **イベント監視**  
 高度なユースケースに対応するため、CAPTCHA解決イベントを追跡します。  
